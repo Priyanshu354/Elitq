@@ -48,7 +48,7 @@ const Login = () => {
           <div className="flex justify-center mb-6">
             <h2 className="text-xl font-medium">Elitiq</h2>
           </div>
-
+          
           <div className="flex justify-center mb-6">
             <h1 className="text-2xl font-bold">Hey There!👋</h1>
           </div>
