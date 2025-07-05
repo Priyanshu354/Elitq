@@ -1,0 +1,11 @@
+# Logs
+logs
+*.logs
+
+# Node Modules
+Frontend/node_modules
+Backend/node_modules
+
+# Enviroment
+Frontend/.env
+Backend/.env
