@@ -27,7 +27,7 @@ const Topbar = () => {
 
             <div className="text-sm text-center">
                 <a href="mailto:titpriyanshuraj@gmail.com" className="hover:text-gray-300 flex gap-3">
-                    priaynshurajsde354@gmail.com
+                    priyanshurajsde354@gmail.com
                 </a>
             </div>
         </div>
